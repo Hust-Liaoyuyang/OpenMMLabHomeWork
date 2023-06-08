@@ -81,7 +81,13 @@ for fruit_name in CustomDatasetFile:
 06/06 22:26:30 - mmengine - INFO - Epoch(val) [100][55/55]    accuracy/top1: 67.8899  accuracy/top5: 92.8899  data_time: 0.0008  time: 0.0159
 ```
 
+可以看出验证集的评估指标较低，原因，初始学习率设置过大，收敛困难，将学习率调小后验证集评估指标如下
 
+```shell
+2023/06/08 22:15:35 - mmengine - INFO - Epoch(val) [50][28/28]    accuracy/top1: 94.4954  accuracy/top5: 99.0826  data_time: 0.0253  time: 0.0380
+```
+
+达到了较好的94.4954
 
 使用ImageClassificationInferencer 接口进行分类
 
