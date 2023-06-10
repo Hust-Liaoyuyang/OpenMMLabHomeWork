@@ -28,11 +28,11 @@
 
 ### 1、可视化数据集
 
-![1686285268476](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686285268476.png)
+![1686285268476](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/dataset_visual.png?raw=true)
 
 ### 2、可视化标签
 
-![1686294649000](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686294649000.png)
+![1686294649000](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/label_visual.png?raw=true)
 
 ### 3、测试集评估指标
 
@@ -55,25 +55,25 @@
 
 ### 4、预测结果
 
-![1686376032578](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686376032578.png)
+![1686376032578](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/1_raw.jpg?raw=true)
 
 ### 5、特征图可视化
 
 **可视化neck三个输出通道**
 
-![1686377009254](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686377009254.png)
+![1686377009254](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/1_neck.jpg?raw=true)
 
 **可视化backbone三个输出通道**
 
-![1686377023089](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686377023089.png)
+![1686377023089](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/1_backbone.jpg?raw=true)
 
 ### 6、Grad-Based CAM 可视化
 
 **neck 输出的最小输出特征图的 Grad CAM**
 
-![1686377584143](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686377584143.png)
+![1686377584143](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/1_neck_mingramcam.jpg?raw=true)
 
 **neck 输出的最大输出特征图的 Grad CAM**
 
-![1686377612080](C:\Users\LYY\AppData\Roaming\Typora\typora-user-images\1686377612080.png)
+![1686377612080](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%B8%89%E6%AC%A1/MMDetection/1_neck_maxgramcam.jpg?raw=true)
 
