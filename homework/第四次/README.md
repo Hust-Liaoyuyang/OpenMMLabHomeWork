@@ -55,4 +55,5 @@ mAcc: 63.0000
 
 
 
-![watermelon](C:\Users\9700k\Desktop\watermelon.png)
+![watermelon](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E5%9B%9B%E6%AC%A1/watermelon.png?raw=true)
+
