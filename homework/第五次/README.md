@@ -4,12 +4,12 @@
 
 
 
-![test](C:\Users\9700k\Desktop\test.png)
+![test](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%BA%94%E6%AC%A1/test.png?raw=true)
 
 
 
-![test_canny](C:\Users\9700k\Desktop\test_canny.png)
+![test_canny](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%BA%94%E6%AC%A1/test_canny.png?raw=true)
 
 
 
-![sample_0](C:\Users\9700k\Desktop\sample_0.png)
+![sample_0](https://github.com/Hust-Liaoyuyang/OpenMMLabHomeWork/blob/master/homework/%E7%AC%AC%E4%BA%94%E6%AC%A1/sample_0.png?raw=true)
